@@ -1,0 +1,3 @@
+source activate tfdeeplearning
+
+jupyter notebook
